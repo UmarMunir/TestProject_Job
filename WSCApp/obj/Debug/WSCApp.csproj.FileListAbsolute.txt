@@ -1,0 +1,17 @@
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\bin\Debug\WSCApp.exe.config
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\bin\Debug\WSCApp.exe
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\bin\Debug\WSCApp.pdb
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\obj\Debug\WSCApp.exe
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\obj\Debug\WSCApp.pdb
+c:\users\shahzad aslam\documents\visual studio 2013\Projects\WSCApp\WSCApp\obj\Debug\WSCApp.csprojResolveAssemblyReference.cache
+D:\Azure\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\WSCApp.exe.config
+D:\Azure\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\WSCApp.exe
+D:\Azure\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\WSCApp.pdb
+D:\Azure\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\WSCApp.exe
+D:\Azure\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\WSCApp.pdb
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.exe.config
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.pdb
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\WSCApp.csprojResolveAssemblyReference.cache
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\OBSAppsWatcherJob.pdb

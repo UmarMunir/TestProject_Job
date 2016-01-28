@@ -1,0 +1,10 @@
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.exe.config
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\bin\Debug\OBSAppsWatcherJob.pdb
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\Schedular-1-0-0-1\WSCApp\WSCApp\obj\Debug\OBSAppsWatcherJob.pdb
+E:\Source Code\OBSAppsWatcherJob\OBSAppsWatcherJob\WSCApp\bin\Debug\OBSAppsWatcherJob.exe.config
+E:\Source Code\OBSAppsWatcherJob\OBSAppsWatcherJob\WSCApp\bin\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\OBSAppsWatcherJob\OBSAppsWatcherJob\WSCApp\bin\Debug\OBSAppsWatcherJob.pdb
+E:\Source Code\OBSAppsWatcherJob\OBSAppsWatcherJob\WSCApp\obj\Debug\OBSAppsWatcherJob.exe
+E:\Source Code\OBSAppsWatcherJob\OBSAppsWatcherJob\WSCApp\obj\Debug\OBSAppsWatcherJob.pdb
