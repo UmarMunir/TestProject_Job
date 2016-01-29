@@ -15,13 +15,6 @@ namespace WSCApp
 
         static void Main(string[] args)
         {
-            HttpClient client = new HttpClient();
-            
-            var sitecount = int.Parse(ConfigurationManager.AppSettings["NoOfSites"]);
-            var waitTime = int.Parse(ConfigurationManager.AppSettings["WaitTime"]);
-
-            var sitename = "Site";
-            var siteurl = "";
             for(int i=0; i< sitecount; i++ )
             {
                 sitename = sitename+i.ToString();
