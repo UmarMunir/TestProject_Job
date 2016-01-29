@@ -22,16 +22,7 @@ namespace WSCApp
 
             var sitename = "Site";
             var siteurl = "";
-            for(int i=0; i< sitecount; i++ )
-            {
-                sitename = sitename+i.ToString();
-                siteurl = ConfigurationManager.AppSettings[sitename];
-
-                var request = client.GetAsync(new Uri(siteurl));
-                Trace.TraceInformation("{0}: {1}", DateTime.Now, request.Result.StatusCode);
-                sitename = "Site";
-            }
-
+           
 
         }
 
